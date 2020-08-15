@@ -1,5 +1,5 @@
 # Analysis of EVRK business sectors of Lithuania
-Analysis is made using Jupiter Notebooks in Google Colab platform.
+Analysis is made using Jupyter Notebooks in Google Colab platform.
 ## Goals
 1. Explore business sectors `sales income` size and growth trends.
 2. Explore business sectors `profit`, `profit margin` sizes. 
